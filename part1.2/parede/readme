@@ -1,0 +1,7 @@
+python main.py reference images output
+
+ter 3 folders ao mesmo nivel com o nome reference images e output
+
+images tem as images a ver por ordem sequencial
+
+reference tem a primeira imagem
